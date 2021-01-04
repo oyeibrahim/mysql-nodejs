@@ -6,5 +6,3 @@ Callback method is in mysql-callback file.
 Promise method is in mysql-promise file.
 
 Promise is implemented using util library.
-
-Contact me: oyetunjiibrahim@gmail.com
